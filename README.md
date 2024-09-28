@@ -1,4 +1,8 @@
-# Final app previw
+# Description
+
+Youtube clone using React.JS, Tailwind CSS, Redux and RapidAPI.
+
+# Final app preview
 
 <img width="1632" alt="Screenshot 2024-09-28 at 21 40 46" src="https://github.com/user-attachments/assets/35f98da2-5183-4050-b8ff-641090e1611f">
 
