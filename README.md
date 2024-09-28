@@ -8,7 +8,7 @@ Youtube clone using React.JS, Tailwind CSS, Redux and RapidAPI.
 
 # See live
 
-[https://anas-personal-youtube.netlify.app/](https://ana-media.netlify.app/)
+https://ana-media.netlify.app/
 
 # Getting Started with Create React App
 
